@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "value",
+  "namespace": "com.bunny.namespace",
+  "fields": [
+    {
+      "name": "Title",
+      "type": "string"
+    },
+    {
+      "name": "num",
+      "type": "int"
+    }
+  ]
+}

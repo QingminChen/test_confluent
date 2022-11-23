@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "Key",
+  "namespace": "com.bunny.namespace",
+  "fields": [
+    {
+      "name": "num",
+      "type": "int"
+    }
+  ]
+}
